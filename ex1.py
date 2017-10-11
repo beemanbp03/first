@@ -1,0 +1,6 @@
+#print("hello world")
+#print("I love typing at 10 in the morning")
+#print("why won't this work?")
+#print("thats no moon, thats a spacestation...")
+print("Here we go again.")
+#print("Sorry Sam.")
